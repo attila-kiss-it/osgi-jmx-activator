@@ -24,7 +24,7 @@ import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceRegistration;
 
 /**
- * Registers {@link MBeanServer} as an OSGi service.
+ * Registers an {@link MBeanServer} as an OSGi service.
  */
 public class MBeanServerActivator implements BundleActivator {
 
